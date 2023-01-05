@@ -373,7 +373,7 @@ height:fit-content;
     .page .plus {
         left: 89%;
         top: 10px;
-        z-index:5;
+        z-index:5 !important;
     }
     .page .nike-logo {
         width: 27%;
